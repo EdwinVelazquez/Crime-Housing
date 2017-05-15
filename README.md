@@ -18,3 +18,10 @@
 Felony Histogram             |  Comparative Chart
 :-------------------------:|:-------------------------:
 ![](https://github.com/EdwinVelazquez/Crime-Housing/blob/master/felonyhistogram.png)  |  ![](https://github.com/EdwinVelazquez/Crime-Housing/blob/master/comparativechart.png)
+
+#### The chart on the left shows the magnitude of crime in the particular neighborhoods requested.
+
+#### The chart on the right is for making a comparative analysis of crime and costs in those areas.
+
+#### With the folium map, it is quite clear (and surprising) to see that proximity to police precincts doesn’t have the presumed positive effect on crime in the area.
+
